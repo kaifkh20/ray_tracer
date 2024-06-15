@@ -15,7 +15,7 @@ void write_color(std::ostream &out,const color& c){
     int gbyte = int(255.999 * g);
     int bbyte = int(255.999 * b);
 
-    out<<rbyte<<' '<<gbyte<<' '<<bbyte;
+    out<<rbyte<<' '<<gbyte<<' '<<bbyte<< "\n";
 }
 
 #endif
