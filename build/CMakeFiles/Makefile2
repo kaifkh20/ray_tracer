@@ -57,7 +57,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /home/kaifsaif/Desktop/Projects/ray-tracer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kaifsaif/Desktop/Projects/ray-tracer/build-dir
+CMAKE_BINARY_DIR = /home/kaifsaif/Desktop/Projects/ray-tracer/build
 
 #=============================================================================
 # Directory level rules for the build root directory
