@@ -43,6 +43,7 @@ class camera {
                 // color pixel_color = ray_color(r, world);
                 write_color(std::cout, pixel_samples_scale*pixel_color);
             }
+            std::clog << "\rIf this is slow. Be patient"<< std::flush;
         }
 
         std::clog << "\rDone.                 \n";
