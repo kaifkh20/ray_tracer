@@ -6,7 +6,7 @@ ray:
 ray.o : ray.cpp
 			g++ -c ray.cpp
 
-run :
+run : ray
 	./ray > image.ppm
 
 clean :
