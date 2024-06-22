@@ -3,12 +3,12 @@
 // #include "ray.h"
 // #include<iostream>
 
-#include "rt_const.h"
-#include "hittable.h"
-#include "hittable_list.h"
-#include "sphere.h"
-#include "camera.h"
-#include "material.h"
+#include "header_components/rt_const.h"
+#include "header_components/hittable.h"
+#include "header_components/hittable_list.h"
+#include "header_components/sphere.h"
+#include "header_components/camera.h"
+#include "header_components/material.h"
 
 int main() {
     hittable_list world;

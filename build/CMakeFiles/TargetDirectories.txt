@@ -1,2 +1,0 @@
-/home/kaifsaif/Desktop/Projects/ray-tracer/build/CMakeFiles/edit_cache.dir
-/home/kaifsaif/Desktop/Projects/ray-tracer/build/CMakeFiles/rebuild_cache.dir
